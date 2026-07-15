@@ -1,4 +1,4 @@
-# 📌 logging-for-data-engineers
+# ⚙️ logging-for-data-engineers
 
 **logging-for-data-engineers** is not a "print statements with timestamps" logging tutorial. It is a reference implementation of how **logging functions as production infrastructure** inside a real data engineering stack.
 

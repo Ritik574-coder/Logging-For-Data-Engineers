@@ -138,7 +138,7 @@ flowchart TB
 ## 📁 Project Structure
 
 ```text
-pylog-dataops/
+logging-for-data-engineers/
 │
 ├── config/                     # Environment-aware configuration (YAML)
 │   ├── config.yaml             # App + logging configuration
